@@ -38,7 +38,7 @@ This is a full featured multiple instance supported page manage widget with conf
 
 == Change Log ==
  
-= Version 1.0 (11-23-2009) =
+= Version 1.0 (11-27-2009) =
 * New: First Release
 
 == How to use it ==
